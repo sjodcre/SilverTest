@@ -50,7 +50,7 @@ Installation :
 * Settings for Postman:
   * File -> Settings -> Disable SSL certificate verification
   * Run as Admin
-
+* Run the command "dotnet watch run" at the VS Code (do go to the directory of your project if you are not there) terminal
 
 
 <br />
