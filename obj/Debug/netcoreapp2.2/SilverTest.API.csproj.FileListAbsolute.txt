@@ -1,0 +1,14 @@
+D:\SilverHorse\SilverTest.API\bin\Debug\netcoreapp2.2\SilverTest.API.deps.json
+D:\SilverHorse\SilverTest.API\bin\Debug\netcoreapp2.2\SilverTest.API.runtimeconfig.json
+D:\SilverHorse\SilverTest.API\bin\Debug\netcoreapp2.2\SilverTest.API.runtimeconfig.dev.json
+D:\SilverHorse\SilverTest.API\bin\Debug\netcoreapp2.2\SilverTest.API.dll
+D:\SilverHorse\SilverTest.API\bin\Debug\netcoreapp2.2\SilverTest.API.pdb
+D:\SilverHorse\SilverTest.API\obj\Debug\netcoreapp2.2\SilverTest.API.csprojAssemblyReference.cache
+D:\SilverHorse\SilverTest.API\obj\Debug\netcoreapp2.2\SilverTest.API.csproj.CoreCompileInputs.cache
+D:\SilverHorse\SilverTest.API\obj\Debug\netcoreapp2.2\SilverTest.API.RazorAssemblyInfo.cache
+D:\SilverHorse\SilverTest.API\obj\Debug\netcoreapp2.2\SilverTest.API.RazorAssemblyInfo.cs
+D:\SilverHorse\SilverTest.API\obj\Debug\netcoreapp2.2\SilverTest.API.AssemblyInfoInputs.cache
+D:\SilverHorse\SilverTest.API\obj\Debug\netcoreapp2.2\SilverTest.API.AssemblyInfo.cs
+D:\SilverHorse\SilverTest.API\obj\Debug\netcoreapp2.2\SilverTest.API.RazorTargetAssemblyInfo.cache
+D:\SilverHorse\SilverTest.API\obj\Debug\netcoreapp2.2\SilverTest.API.dll
+D:\SilverHorse\SilverTest.API\obj\Debug\netcoreapp2.2\SilverTest.API.pdb
